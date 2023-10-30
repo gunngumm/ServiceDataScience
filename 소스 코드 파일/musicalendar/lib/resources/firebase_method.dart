@@ -1,0 +1,1 @@
+//모든 firebase method를 수행하는 공간

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789563938683",
+    "project_id": "musicalendar-a682a",
+    "storage_bucket": "musicalendar-a682a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789563938683:android:0d6c313b4f11cf3a778fde",
+        "android_client_info": {
+          "package_name": "com.example.musicalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789563938683-jpflq7ckvbr42orhru5ehrg5u43vl0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2bnW3_ivrU6cXHP-eTplgyyPmH8d7FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789563938683-jpflq7ckvbr42orhru5ehrg5u43vl0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
